@@ -39,3 +39,5 @@ Testing Accuracy:0.8605
 F1_score: 0.5376
 Precision: 0.8939
 Recall: 0.3844
+
+ Random Forest gives the best accuracy, f1 score and precision. So, this algorithm is used.
